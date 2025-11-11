@@ -7,7 +7,8 @@ Usage: python alert_engine.py (mocks Bangalore; tweak lat/lon/report).
 Live: Pass real user_report, lat/lon via CLI/Streamlit.
 Author: Grok + You (2025)
 """
-
+git clone https://github.com/LHMisme420/Disaster-Alert-MVP.git
+cd Disaster-Alert-MVP
 import json
 import requests
 import math
